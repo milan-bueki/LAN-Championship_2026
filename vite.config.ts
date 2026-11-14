@@ -2,7 +2,7 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: './',
+  base: '/LAN-Championship_2026/',
   plugins: [react()],
   server: {
     host: true,
